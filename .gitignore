@@ -1,0 +1,9 @@
+# Compiled binaries
+server/server
+client/client
+
+# SQLite database (runtime artifact, not source code)
+*.db
+
+# macOS
+.DS_Store
